@@ -1,3 +1,5 @@
+Projeto de clone do DropBox em ReactJS, desenvolvido em treinamento online junto a RocketSeat
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
